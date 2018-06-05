@@ -1,2 +1,0 @@
-# sqlpoisd
-sqli askei
